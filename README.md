@@ -6,4 +6,4 @@ I love coding, learning and life.
 ![Redux](https://img.shields.io/badge/Redux-1000?style=for-the-badge&logo=Redux&logoColor=a31aff&labelColor=000000&color=000000)![Zustand](https://img.shields.io/badge/Zustand-1000?style=for-the-badge&logo=DiceBear&logoColor=834216&labelColor=000000&color=000000)![vite](https://img.shields.io/badge/vite-1000?style=for-the-badge&logo=Vite&logoColor=8224f5&labelColor=000000&color=000000)![Webpack](https://img.shields.io/badge/Webpack-1000?style=for-the-badge&logo=Webpack&logoColor=707aff&labelColor=000000&color=000000)![nodejs](https://img.shields.io/badge/nodejs-1000?style=for-the-badge&logo=Node.js&logoColor=9bff70&labelColor=000000&color=000000)
 
 ### backend skills:
-![Express](https://img.shields.io/badge/Express-1000?style=for-the-badge&logo=Express&logoColor=ffffff&labelColor=000000&color=000000)
+![Express](https://img.shields.io/badge/Express-1000?style=for-the-badge&logo=Express&logoColor=ffffff&labelColor=000000&color=000000)![JSON Web Tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-1000?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=fb96fd&labelColor=000000&color=000000)
