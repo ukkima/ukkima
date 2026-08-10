@@ -1,4 +1,4 @@
-### Hi >_. I'm Imran 
+### Hi>_ I'm Imran 
 I love coding, learning and life.
 
 ### Nature Languages
